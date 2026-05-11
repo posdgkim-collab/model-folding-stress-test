@@ -89,11 +89,7 @@ python resnet18_cifar10_weight_clustering.py \
 │   ├── baseline_results.csv   — sparsity × accuracy for all three variants
 │   ├── fig1_baseline_comparison.png
 │   └── fig2_ar_breakdown.png
-├── patches/
-│   ├── weight_clustering.py   — patched (sklearn KMeans)
-│   └── utils.py               — patched (AttributeError)
-└── notebooks/
-    └── colab_pipeline.ipynb   — end-to-end Colab notebook
+
 ```
 
 ## Citation
