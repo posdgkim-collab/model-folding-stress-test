@@ -95,4 +95,4 @@ If you use this stress test, please also cite the original paper:
 
 ## Use of AI assistance
 
-I used Claude (Anthropic) for the following: debugging the four compatibility patches in the patches table above, polishing the English of the report, and discussing how to structure the analysis. All experimental design choices, model training, sweeps, result interpretation, and conclusions were performed by me.
+I used ChatGPT for the following: debugging the four compatibility patches in the patches table above, polishing the English of the report, and discussing how to structure the analysis. All experimental design choices, model training, sweeps, result interpretation, and conclusions were performed by me.
